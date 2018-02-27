@@ -1,0 +1,10 @@
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;Repurchase Price;Sale Price;Date
+ 
+Open Ended Schemes(Balanced)
+ 
+Aditya Birla Sun Life Mutual Fund
+ 
+120518;INF209KA1LH3;INF209K01ZB2;Aditya Birla Sun Life Balanced '95 Fund - Direct Plan-Dividend;211.48;209.37;211.48;26-Feb-2018
+120517;INF209K01ZC0;-;Aditya Birla Sun Life Balanced '95 Fund - Direct Plan-Growth;790.81;782.90;790.81;26-Feb-2018
+103154;INF209K01BS7;INF209K01EE1;Aditya Birla Sun Life Balanced '95 Fund - Regular Plan-Dividend;147.17;145.70;147.17;26-Feb-2018
+103155;INF209K01BT5;-;Aditya Birla Sun Life Balanced '95 Fund - Regular Plan-Growth;749.99;742.49;749.99;26-Feb-2018

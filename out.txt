@@ -734,17 +734,17 @@ HDFC Mutual Fund
  
 HSBC Mutual Fund
  
-129196;INF336L01IL6;-;HSBC Managed Solutions - Convervative - Dividend;13.7678;13.7678;13.7678;23-Feb-2018
-129195;INF336L01IM4;-;HSBC Managed Solutions - Convervative - Growth;13.7678;13.7678;13.7678;23-Feb-2018
-129197;INF336L01IP7;-;HSBC Managed Solutions - Convervative - Growth Direct;13.9;13.9;13.9;23-Feb-2018
-129199;INF336L01HZ8;-;HSBC Managed Solutions - Growth - Dividend;17.7365;17.7365;17.7365;23-Feb-2018
-129201;INF336L01IC5;-;HSBC Managed Solutions - Growth - Dividend Direct;17.9204;17.9204;17.9204;23-Feb-2018
-129065;INF336L01IA9;-;HSBC Managed Solutions - Growth - Growth;17.7365;17.7365;17.7365;23-Feb-2018
-129200;INF336L01ID3;-;HSBC Managed Solutions - Growth - Growth Direct;17.9204;17.9204;17.9204;23-Feb-2018
-129192;INF336L01IF8;-;HSBC Managed Solutions - Moderate - Dividend;16.7186;16.7186;16.7186;23-Feb-2018
-129194;INF336L01II2;-;HSBC Managed Solutions - Moderate - Dividend Direct;10.139;10.139;10.139;23-Feb-2018
-129191;INF336L01IG6;-;HSBC Managed Solutions - Moderate - Growth;16.7186;16.7186;16.7186;23-Feb-2018
-129193;INF336L01IJ0;-;HSBC Managed Solutions - Moderate - Growth Direct;16.8791;16.8791;16.8791;23-Feb-2018
+129196;INF336L01IL6;-;HSBC Managed Solutions - Convervative - Dividend;13.7841;13.7841;13.7841;26-Feb-2018
+129195;INF336L01IM4;-;HSBC Managed Solutions - Convervative - Growth;13.7841;13.7841;13.7841;26-Feb-2018
+129197;INF336L01IP7;-;HSBC Managed Solutions - Convervative - Growth Direct;13.9168;13.9168;13.9168;26-Feb-2018
+129199;INF336L01HZ8;-;HSBC Managed Solutions - Growth - Dividend;17.8648;17.8648;17.8648;26-Feb-2018
+129201;INF336L01IC5;-;HSBC Managed Solutions - Growth - Dividend Direct;18.0505;18.0505;18.0505;26-Feb-2018
+129065;INF336L01IA9;-;HSBC Managed Solutions - Growth - Growth;17.8648;17.8648;17.8648;26-Feb-2018
+129200;INF336L01ID3;-;HSBC Managed Solutions - Growth - Growth Direct;18.0505;18.0505;18.0505;26-Feb-2018
+129192;INF336L01IF8;-;HSBC Managed Solutions - Moderate - Dividend;16.8188;16.8188;16.8188;26-Feb-2018
+129194;INF336L01II2;-;HSBC Managed Solutions - Moderate - Dividend Direct;10.1998;10.1998;10.1998;26-Feb-2018
+129191;INF336L01IG6;-;HSBC Managed Solutions - Moderate - Growth;16.8188;16.8188;16.8188;26-Feb-2018
+129193;INF336L01IJ0;-;HSBC Managed Solutions - Moderate - Growth Direct;16.9805;16.9805;16.9805;26-Feb-2018
  
 ICICI Prudential Mutual Fund
  
@@ -873,108 +873,108 @@ Aditya Birla Sun Life Mutual Fund
  
 DHFL Pramerica Mutual Fund
  
-138457;INF223J01NJ4;-;DHFL Pramerica Euro Equity Fund - Direct Plan - Dividend;11.11;11;11.11;23-Feb-2018
-138456;INF223J01NL0;-;DHFL Pramerica Euro Equity Fund - Direct Plan - Growth;14.46;14.32;14.46;23-Feb-2018
-138454;INF223J01AW4;-;DHFL Pramerica Euro Equity Fund - Dividend;12.67;12.54;12.67;23-Feb-2018
-138453;INF223J01AY0;-;DHFL Pramerica Euro Equity Fund - Growth;13.79;13.65;13.79;23-Feb-2018
-138524;INF223J01AS2;-;DHFL Pramerica Global Agribusiness Fund - Dividend;14.8;14.65;14.8;23-Feb-2018
-138523;INF223J01AU8;-;DHFL Pramerica Global Agribusiness Fund - Growth;15.78;15.62;15.78;23-Feb-2018
+138457;INF223J01NJ4;-;DHFL Pramerica Euro Equity Fund - Direct Plan - Dividend;11.13;11.02;11.13;26-Feb-2018
+138456;INF223J01NL0;-;DHFL Pramerica Euro Equity Fund - Direct Plan - Growth;14.49;14.35;14.49;26-Feb-2018
+138454;INF223J01AW4;-;DHFL Pramerica Euro Equity Fund - Dividend;12.7;12.57;12.7;26-Feb-2018
+138453;INF223J01AY0;-;DHFL Pramerica Euro Equity Fund - Growth;13.82;13.68;13.82;26-Feb-2018
+138524;INF223J01AS2;-;DHFL Pramerica Global Agribusiness Fund - Dividend;14.87;14.72;14.87;26-Feb-2018
+138523;INF223J01AU8;-;DHFL Pramerica Global Agribusiness Fund - Growth;15.86;15.7;15.86;26-Feb-2018
 138525;INF223J01AV6;-;DHFL Pramerica Global Agribusiness Offshore Fund - Bonus;11.75;11.63;11.75;04-Jan-2017
-138527;INF223J01NG0;-;DHFL Pramerica Global Agribusiness Offshore Fund - Direct Plan - Dividend;16.53;16.36;16.53;23-Feb-2018
-138528;INF223J01NF2;-;DHFL Pramerica Global Agribusiness Offshore Fund - Direct Plan - Growth;16.53;16.36;16.53;23-Feb-2018
+138527;INF223J01NG0;-;DHFL Pramerica Global Agribusiness Offshore Fund - Direct Plan - Dividend;16.61;16.44;16.61;26-Feb-2018
+138528;INF223J01NF2;-;DHFL Pramerica Global Agribusiness Offshore Fund - Direct Plan - Growth;16.61;16.44;16.61;26-Feb-2018
  
 DSP BlackRock Mutual Fund
  
-130491;INF740K01Z68;INF740K01Z76;DSP BlackRock Global Allocation Fund - Direct Plan - Dividend;11.8399;11.7215;11.8399;23-Feb-2018
-130493;INF740K01Z50;-;DSP BlackRock Global Allocation Fund - Direct Plan - Growth;11.8399;11.7215;11.8399;23-Feb-2018
-130490;INF740K01Z35;INF740K01Z43;DSP BlackRock Global Allocation Fund - Regular Plan - Dividend;11.6896;11.5727;11.6896;23-Feb-2018
-130492;INF740K01Z27;-;DSP BlackRock Global Allocation Fund - Regular Plan - Growth;11.6896;11.5727;11.6896;23-Feb-2018
-119253;INF740K01OI5;INF740K01OJ3;DSP BlackRock US Flexible Equity Fund - Direct Plan - Dividend;23.2810;23.0482;23.2810;23-Feb-2018
-119252;INF740K01OH7;-;DSP BlackRock US Flexible Equity Fund - Direct Plan - Growth;23.2810;23.0482;23.2810;23-Feb-2018
-117692;INF740K01LQ4;-;DSP BlackRock US Flexible Equity Fund - Regular Plan - Dividend  Option;17.9424;17.7630;17.9424;23-Feb-2018
-117691;INF740K01LP6;-;DSP BlackRock US Flexible Equity Fund - Regular Plan - Growth Option;22.5172;22.2920;22.5172;23-Feb-2018
-119272;INF740K01OF1;INF740K01OG9;DSP BlackRock World Agriculture Fund - Direct Plan - Dividend;15.1822;15.0304;15.1822;23-Feb-2018
-119271;INF740K01OE4;-;DSP BlackRock World Agriculture Fund - Direct Plan - Growth;16.1020;15.9410;16.1020;23-Feb-2018
-115881;INF740K01EL0;-;DSP BlackRock World Agriculture Fund - Regular Plan - Dividend;12.8165;12.6883;12.8165;23-Feb-2018
-115882;INF740K01EK2;-;DSP BlackRock World Agriculture Fund - Regular Plan - Growth;15.8291;15.6708;15.8291;23-Feb-2018
-119276;INF740K01PD3;INF740K01PE1;DSP BlackRock World Energy Fund - Direct Plan - Dividend;11.5463;11.4308;11.5463;23-Feb-2018
-119275;INF740K01PC5;-;DSP BlackRock World Energy Fund - Direct Plan - Growth;12.8048;12.6768;12.8048;23-Feb-2018
-112127;INF740K01292;INF740K01300;DSP BlackRock World Energy Fund - Regular Plan - Dividend;10.8204;10.7122;10.8204;23-Feb-2018
-112126;INF740K01284;-;DSP BlackRock World Energy Fund - Regular Plan - Growth;12.6519;12.5254;12.6519;23-Feb-2018
-119278;INF740K01PA9;INF740K01PB7;DSP BlackRock World Gold Fund - Direct Plan - Dividend;9.2906;9.1977;9.2906;23-Feb-2018
-119277;INF740K01OZ9;-;DSP BlackRock World Gold Fund - Direct Plan - Growth;11.3425;11.2291;11.3425;23-Feb-2018
-106596;INF740K01268;INF740K01276;DSP BlackRock World Gold Fund - Regular Plan - Dividend;9.0809;8.9901;9.0809;23-Feb-2018
-106597;INF740K01250;-;DSP BlackRock World Gold Fund - Regular Plan - Growth;11.0904;10.9795;11.0904;23-Feb-2018
-119280;INF740K01PG6;INF740K01PH4;DSP BlackRock World Mining Fund - Direct Plan - Dividend;8.7626;8.6750;8.7626;23-Feb-2018
-119279;INF740K01PF8;-;DSP BlackRock World Mining Fund - Direct Plan - Growth;8.7626;8.6750;8.7626;23-Feb-2018
-112347;INF740K01748;INF740K01AL8;DSP BlackRock World Mining Fund - Regular Plan - Dividend;8.5223;8.4371;8.5223;23-Feb-2018
-112293;INF740K01730;-;DSP BlackRock World Mining Fund - Regular Plan - Growth;8.5223;8.4371;8.5223;23-Feb-2018
+130491;INF740K01Z68;INF740K01Z76;DSP BlackRock Global Allocation Fund - Direct Plan - Dividend;11.8966;11.7776;11.8966;26-Feb-2018
+130493;INF740K01Z50;-;DSP BlackRock Global Allocation Fund - Direct Plan - Growth;11.8966;11.7776;11.8966;26-Feb-2018
+130490;INF740K01Z35;INF740K01Z43;DSP BlackRock Global Allocation Fund - Regular Plan - Dividend;11.7454;11.6279;11.7454;26-Feb-2018
+130492;INF740K01Z27;-;DSP BlackRock Global Allocation Fund - Regular Plan - Growth;11.7454;11.6279;11.7454;26-Feb-2018
+119253;INF740K01OI5;INF740K01OJ3;DSP BlackRock US Flexible Equity Fund - Direct Plan - Dividend;23.5436;23.3082;23.5436;26-Feb-2018
+119252;INF740K01OH7;-;DSP BlackRock US Flexible Equity Fund - Direct Plan - Growth;23.5436;23.3082;23.5436;26-Feb-2018
+117692;INF740K01LQ4;-;DSP BlackRock US Flexible Equity Fund - Regular Plan - Dividend  Option;18.1434;17.9620;18.1434;26-Feb-2018
+117691;INF740K01LP6;-;DSP BlackRock US Flexible Equity Fund - Regular Plan - Growth Option;22.7696;22.5419;22.7696;26-Feb-2018
+119272;INF740K01OF1;INF740K01OG9;DSP BlackRock World Agriculture Fund - Direct Plan - Dividend;15.2954;15.1424;15.2954;26-Feb-2018
+119271;INF740K01OE4;-;DSP BlackRock World Agriculture Fund - Direct Plan - Growth;16.2220;16.0598;16.2220;26-Feb-2018
+115881;INF740K01EL0;-;DSP BlackRock World Agriculture Fund - Regular Plan - Dividend;12.9116;12.7825;12.9116;26-Feb-2018
+115882;INF740K01EK2;-;DSP BlackRock World Agriculture Fund - Regular Plan - Growth;15.9466;15.7871;15.9466;26-Feb-2018
+119276;INF740K01PD3;INF740K01PE1;DSP BlackRock World Energy Fund - Direct Plan - Dividend;11.6051;11.4890;11.6051;26-Feb-2018
+119275;INF740K01PC5;-;DSP BlackRock World Energy Fund - Direct Plan - Growth;12.8700;12.7413;12.8700;26-Feb-2018
+112127;INF740K01292;INF740K01300;DSP BlackRock World Energy Fund - Regular Plan - Dividend;10.8753;10.7665;10.8753;26-Feb-2018
+112126;INF740K01284;-;DSP BlackRock World Energy Fund - Regular Plan - Growth;12.7161;12.5889;12.7161;26-Feb-2018
+119278;INF740K01PA9;INF740K01PB7;DSP BlackRock World Gold Fund - Direct Plan - Dividend;9.4157;9.3215;9.4157;26-Feb-2018
+119277;INF740K01OZ9;-;DSP BlackRock World Gold Fund - Direct Plan - Growth;11.4952;11.3802;11.4952;26-Feb-2018
+106596;INF740K01268;INF740K01276;DSP BlackRock World Gold Fund - Regular Plan - Dividend;9.2029;9.1109;9.2029;26-Feb-2018
+106597;INF740K01250;-;DSP BlackRock World Gold Fund - Regular Plan - Growth;11.2393;11.1269;11.2393;26-Feb-2018
+119280;INF740K01PG6;INF740K01PH4;DSP BlackRock World Mining Fund - Direct Plan - Dividend;8.8887;8.7998;8.8887;26-Feb-2018
+119279;INF740K01PF8;-;DSP BlackRock World Mining Fund - Direct Plan - Growth;8.8887;8.7998;8.8887;26-Feb-2018
+112347;INF740K01748;INF740K01AL8;DSP BlackRock World Mining Fund - Regular Plan - Dividend;8.6445;8.5581;8.6445;26-Feb-2018
+112293;INF740K01730;-;DSP BlackRock World Mining Fund - Regular Plan - Growth;8.6445;8.5581;8.6445;26-Feb-2018
  
 Edelweiss Mutual Fund
  
-140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;22.317;22.094;22.317;23-Feb-2018
-140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;21.113;20.902;21.113;23-Feb-2018
-140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;13.1254;12.9941;13.1254;23-Feb-2018
-140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;12.9145;12.7854;12.9145;23-Feb-2018
-140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;11.8614;11.7428;11.8614;23-Feb-2018
-140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;11.4138;11.2997;11.4138;23-Feb-2018
-140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;30.285;29.982;30.285;23-Feb-2018
-140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;28.802;28.514;28.802;23-Feb-2018
-140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;15.1041;14.9531;15.1041;23-Feb-2018
-140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;14.5943;14.4484;14.5943;23-Feb-2018
+140256;INF843K01AW7;-;Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option;22.366;22.142;22.366;26-Feb-2018
+140255;INF843K01609;-;Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option;21.158;20.946;21.158;26-Feb-2018
+140327;INF843K01IZ3;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option;13.1766;13.0448;13.1766;26-Feb-2018
+140328;INF843K01IY6;-;Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option;12.964;12.8344;12.964;26-Feb-2018
+140296;INF843K01GI3;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan;11.9034;11.7844;11.9034;26-Feb-2018
+140295;INF843K01GJ1;-;Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan;11.4534;11.3389;11.4534;26-Feb-2018
+140243;INF843K01AU1;-;Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option;30.558;30.252;30.558;26-Feb-2018
+140242;INF843K01138;-;Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option;29.06;28.769;29.06;26-Feb-2018
+140274;INF843K01EC1;-;Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option;15.2507;15.0982;15.2507;26-Feb-2018
+140273;INF843K01ED9;-;Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option;14.735;14.5877;14.735;26-Feb-2018
  
 Franklin Templeton Mutual Fund
  
-129441;INF090I01KY4;INF090I01KZ1;Franklin India Feeder - Franklin European Growth Fund - Direct - Dividend;10.8964;10.7874;10.8964;23-Feb-2018
-129440;INF090I01KX6;-;Franklin India Feeder - Franklin European Growth Fund - Direct - Growth;10.8964;10.7874;10.8964;23-Feb-2018
-129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Franklin European Growth Fund - Dividend;10.3484;10.2449;10.3484;23-Feb-2018
-129438;INF090I01KU2;-;Franklin India Feeder - Franklin European Growth Fund - Growth;10.3484;10.2449;10.3484;23-Feb-2018
-116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U.S. Opportunities Fund - Dividend;26.5202;26.2550;26.5202;23-Feb-2018
-116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;26.5202;26.2550;26.5202;23-Feb-2018
-118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Dividend;27.9131;27.6340;27.9131;23-Feb-2018
-118551;INF090I01JR0;-;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;27.9131;27.6340;27.9131;23-Feb-2018
+129441;INF090I01KY4;INF090I01KZ1;Franklin India Feeder - Franklin European Growth Fund - Direct - Dividend;10.8867;10.7778;10.8867;26-Feb-2018
+129440;INF090I01KX6;-;Franklin India Feeder - Franklin European Growth Fund - Direct - Growth;10.8867;10.7778;10.8867;26-Feb-2018
+129439;INF090I01KV0;INF090I01KW8;Franklin India Feeder - Franklin European Growth Fund - Dividend;10.3381;10.2347;10.3381;26-Feb-2018
+129438;INF090I01KU2;-;Franklin India Feeder - Franklin European Growth Fund - Growth;10.3381;10.2347;10.3381;26-Feb-2018
+116632;INF090I01EV3;INF090I01EU5;Franklin India Feeder - Franklin U.S. Opportunities Fund - Dividend;26.7307;26.4634;26.7307;26-Feb-2018
+116633;INF090I01EW1;-;Franklin India Feeder - Franklin U.S. Opportunities Fund - Growth;26.7307;26.4634;26.7307;26-Feb-2018
+118550;INF090I01JP4;INF090I01JQ2;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Dividend;28.1367;27.8553;28.1367;26-Feb-2018
+118551;INF090I01JR0;-;Franklin India Feeder - Franklin US Opportunities Fund - Direct - Growth;28.1367;27.8553;28.1367;26-Feb-2018
  
 HSBC Mutual Fund
  
-127070;INF336L01HD5;INF336L01HE3;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Dividend;14.0461;14.0461;14.0461;23-Feb-2018
-127072;INF336L01HG8;INF336L01HH6;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Dividend Direct;14.4467;14.4467;14.4467;23-Feb-2018
-127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;14.0461;14.0461;14.0461;23-Feb-2018
-127071;INF336L01HF0;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;14.4467;14.4467;14.4467;23-Feb-2018
-120036;INF336L01BW8;INF336L01BX6;HSBC Brazil Fund - Dividend Direct;8.9192;8.9192;8.9192;23-Feb-2018
-120035;INF336L01BY4;-;HSBC Brazil Fund - Growth Direct;8.9192;8.9192;8.9192;23-Feb-2018
-115117;INF336L01172;INF336L01180;HSBC Brazil Fund-Dividend;8.5964;8.5964;8.5964;23-Feb-2018
-115116;INF336L01164;-;HSBC Brazil Fund-Growth;8.5964;8.5964;8.5964;23-Feb-2018
-120044;INF336L01CH7;INF336L01CI5;HSBC - Emerging Market Fund - Dividend Direct;15.029;15.029;15.029;23-Feb-2018
-120043;INF336L01CJ3;-;HSBC - Emerging Market Fund - Growth Direct;15.6953;15.6953;15.6953;23-Feb-2018
-107989;INF336L01438;INF336L01420;HSBC Emerging Markets Fund - Dividend;14.4682;14.4682;14.4682;23-Feb-2018
-107988;INF336L01446;-;HSBC Emerging Markets Fund - Growth;15.1223;15.1223;15.1223;23-Feb-2018
-133713;INF336L01JU5;-;HSBC Global Consumer Opportunities Fund - Growth;12.4832;12.4832;12.4832;23-Feb-2018
-133714;INF336L01JT7;-;HSBC Global Consumer Opportunities Fund - Growth Direct;12.7497;12.7497;12.7497;23-Feb-2018
+127070;INF336L01HD5;INF336L01HE3;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Dividend;14.107;14.107;14.107;26-Feb-2018
+127072;INF336L01HG8;INF336L01HH6;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Dividend Direct;14.5104;14.5104;14.5104;26-Feb-2018
+127073;INF336L01HC7;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth;14.107;14.107;14.107;26-Feb-2018
+127071;INF336L01HF0;-;HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct;14.5104;14.5104;14.5104;26-Feb-2018
+120036;INF336L01BW8;INF336L01BX6;HSBC Brazil Fund - Dividend Direct;8.9691;8.9691;8.9691;26-Feb-2018
+120035;INF336L01BY4;-;HSBC Brazil Fund - Growth Direct;8.9691;8.9691;8.9691;26-Feb-2018
+115117;INF336L01172;INF336L01180;HSBC Brazil Fund-Dividend;8.6439;8.6439;8.6439;26-Feb-2018
+115116;INF336L01164;-;HSBC Brazil Fund-Growth;8.6439;8.6439;8.6439;26-Feb-2018
+120044;INF336L01CH7;INF336L01CI5;HSBC - Emerging Market Fund - Dividend Direct;15.0603;15.0603;15.0603;26-Feb-2018
+120043;INF336L01CJ3;-;HSBC - Emerging Market Fund - Growth Direct;15.7279;15.7279;15.7279;26-Feb-2018
+107989;INF336L01438;INF336L01420;HSBC Emerging Markets Fund - Dividend;14.4973;14.4973;14.4973;26-Feb-2018
+107988;INF336L01446;-;HSBC Emerging Markets Fund - Growth;15.1527;15.1527;15.1527;26-Feb-2018
+133713;INF336L01JU5;-;HSBC Global Consumer Opportunities Fund - Growth;12.5344;12.5344;12.5344;26-Feb-2018
+133714;INF336L01JT7;-;HSBC Global Consumer Opportunities Fund - Growth Direct;12.803;12.803;12.803;26-Feb-2018
  
 ICICI Prudential Mutual Fund
  
-123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund - Direct - Dividend;14.48;14.05;14.48;23-Feb-2018
-123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund - Direct - Growth;14.48;14.05;14.48;23-Feb-2018
-123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund - Dividend;13.99;13.57;13.99;23-Feb-2018
-123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund - Growth;13.99;13.57;13.99;23-Feb-2018
+123652;INF109KA1CG5;INF109KA1CF7;ICICI Prudential Global Stable Equity Fund - Direct - Dividend;14.63;14.19;14.63;26-Feb-2018
+123654;INF109KA1CE0;-;ICICI Prudential Global Stable Equity Fund - Direct - Growth;14.63;14.19;14.63;26-Feb-2018
+123653;INF109KA1CD2;INF109KA1CC4;ICICI Prudential Global Stable Equity Fund - Dividend;14.14;13.72;14.14;26-Feb-2018
+123651;INF109KA1CB6;-;ICICI Prudential Global Stable Equity Fund - Growth;14.14;13.72;14.14;26-Feb-2018
  
 Invesco Mutual Fund
  
-129190;INF205K01B56;INF205K01B64;Invesco India Global Equity Income Fund - Direct Plan - Dividend;13.0806;12.9498;13.0806;23-Feb-2018
-129188;INF205K01B49;-;Invesco India Global Equity Income Fund - Direct Plan - Growth;13.1455;13.014;13.1455;23-Feb-2018
-129189;INF205K01B23;INF205K01B31;Invesco India Global Equity Income Fund - Regular Plan - Dividend;12.5109;12.3858;12.5109;23-Feb-2018
-129187;INF205K01B15;-;Invesco India Global Equity Income Fund - Regular Plan - Growth;12.5246;12.3994;12.5246;23-Feb-2018
-126352;INF205K01A32;INF205K01A40;Invesco India Pan European Equity Fund - Direct Plan - Dividend Option;11.7471;11.6296;11.7471;23-Feb-2018
-126353;INF205K01A24;-;Invesco India Pan European Equity Fund - Direct Plan - Growth Option;11.7699;11.6522;11.7699;23-Feb-2018
-126350;INF205K01A08;INF205K01A16;Invesco India Pan European Equity Fund - Regular Plan - Dividend Option;11.236;11.1236;11.236;23-Feb-2018
-126351;INF205K01ZZ9;-;Invesco India Pan European Equity Fund - Regular Plan - Growth Option;11.2363;11.1239;11.2363;23-Feb-2018
+129190;INF205K01B56;INF205K01B64;Invesco India Global Equity Income Fund - Direct Plan - Dividend;13.2531;13.1206;13.2531;26-Feb-2018
+129188;INF205K01B49;-;Invesco India Global Equity Income Fund - Direct Plan - Growth;13.3191;13.1859;13.3191;26-Feb-2018
+129189;INF205K01B23;INF205K01B31;Invesco India Global Equity Income Fund - Regular Plan - Dividend;12.6748;12.5481;12.6748;26-Feb-2018
+129187;INF205K01B15;-;Invesco India Global Equity Income Fund - Regular Plan - Growth;12.6886;12.5617;12.6886;26-Feb-2018
+126352;INF205K01A32;INF205K01A40;Invesco India Pan European Equity Fund - Direct Plan - Dividend Option;11.8918;11.7729;11.8918;26-Feb-2018
+126353;INF205K01A24;-;Invesco India Pan European Equity Fund - Direct Plan - Growth Option;11.9149;11.7958;11.9149;26-Feb-2018
+126350;INF205K01A08;INF205K01A16;Invesco India Pan European Equity Fund - Regular Plan - Dividend Option;11.3731;11.2594;11.3731;26-Feb-2018
+126351;INF205K01ZZ9;-;Invesco India Pan European Equity Fund - Regular Plan - Growth Option;11.3734;11.2597;11.3734;26-Feb-2018
  
 Kotak Mahindra Mutual Fund
  
-133832;INF178L01CN1;INF178L01CM3;Kotak US Equity Fund - Direct Plan - Dividend option;15.712;15.555;15.712;23-Feb-2018
-133831;INF178L01CL5;-;Kotak US Equity Fund - Direct Plan - Growth option;15.709;15.552;15.709;23-Feb-2018
-133830;INF178L01CK7;INF178L01CJ9;Kotak US Equity Fund - Standard Plan - Dividend option;15.214;15.062;15.214;23-Feb-2018
-133833;INF178L01CI1;-;Kotak US Equity Fund - Standard Plan - Growth option;15.211;15.059;15.211;23-Feb-2018
+133832;INF178L01CN1;INF178L01CM3;Kotak US Equity Fund - Direct Plan - Dividend option;15.834;15.676;15.834;26-Feb-2018
+133831;INF178L01CL5;-;Kotak US Equity Fund - Direct Plan - Growth option;15.832;15.674;15.832;26-Feb-2018
+133830;INF178L01CK7;INF178L01CJ9;Kotak US Equity Fund - Standard Plan - Dividend option;15.332;15.179;15.332;26-Feb-2018
+133833;INF178L01CI1;-;Kotak US Equity Fund - Standard Plan - Growth option;15.329;15.176;15.329;26-Feb-2018
 133814;INF178L01145;INF178L01137;Kotak World Gold Fund - Standard Plan - Dividend Option;6.98;6.91;6.98;23-Feb-2018
 133815;INF178L01152;-;Kotak World Gold Fund - Standard Plan - Growth Option;8.421;8.337;8.421;23-Feb-2018
 133817;INF178L01AM7;INF178L01AN5;Kotak World Gold Fund- Direct Plan- Dividend Option;7.265;7.192;7.265;23-Feb-2018
@@ -989,10 +989,10 @@ PRINCIPAL Mutual Fund
  
 Sundaram Mutual Fund
  
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Advantage - Direct Plan - Dividend Option;16.0054;16.0054;16.0054;22-Feb-2018
-119602;INF903J01OB6;-;Sundaram Global Advantage - Direct Plan - Growth Option;17.8709;17.8709;17.8709;22-Feb-2018
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Advantage Fund Dividend;14.8865;14.8865;14.8865;22-Feb-2018
-106370;INF903J01EX1;-;Sundaram Global Advantage Fund Growth;17.3638;17.3638;17.3638;22-Feb-2018
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Advantage - Direct Plan - Dividend Option;16.0207;16.0207;16.0207;23-Feb-2018
+119602;INF903J01OB6;-;Sundaram Global Advantage - Direct Plan - Growth Option;17.8882;17.8882;17.8882;23-Feb-2018
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Advantage Fund Dividend;14.9007;14.9007;14.9007;23-Feb-2018
+106370;INF903J01EX1;-;Sundaram Global Advantage Fund Growth;17.3804;17.3804;17.3804;23-Feb-2018
  
 Open Ended Schemes(Gilt)
  
@@ -1720,10 +1720,10 @@ DSP BlackRock Mutual Fund
 119212;INF740K01QD1;-;DSP BlackRock Micro Cap Fund - Direct Plan - Growth;68.502;67.817;68.502;26-Feb-2018
 113153;INF740K01805;INF740K01AM6;DSP BlackRock Micro Cap Fund - Regular - Dividend;40.273;39.870;40.273;26-Feb-2018
 105989;INF740K01797;-;DSP BlackRock Micro Cap Fund - Regular - Growth;66.325;65.662;66.325;26-Feb-2018
-119029;INF740K01QB5;INF740K01QC3;DSP BlackRock Natural Resources and New Energy Fund - Direct Plan - Dividend;22.575;22.349;22.575;23-Feb-2018
-119028;INF740K01QA7;-;DSP BlackRock Natural Resources and New Energy Fund - Direct Plan - Growth;37.416;37.042;37.416;23-Feb-2018
-108202;INF740K01060;-;DSP BlackRock Natural Resources And New Energy Fund - Regular - Growth;36.300;35.937;36.300;23-Feb-2018
-108203;INF740K01045;INF740K01052;DSP BlackRock Natural Resources And New Energy Fund - Regular Plan - Dividend;21.957;21.737;21.957;23-Feb-2018
+119029;INF740K01QB5;INF740K01QC3;DSP BlackRock Natural Resources and New Energy Fund - Direct Plan - Dividend;22.812;22.584;22.812;26-Feb-2018
+119028;INF740K01QA7;-;DSP BlackRock Natural Resources and New Energy Fund - Direct Plan - Growth;37.808;37.430;37.808;26-Feb-2018
+108202;INF740K01060;-;DSP BlackRock Natural Resources And New Energy Fund - Regular - Growth;36.678;36.311;36.678;26-Feb-2018
+108203;INF740K01045;INF740K01052;DSP BlackRock Natural Resources And New Energy Fund - Regular Plan - Dividend;22.185;21.963;22.185;26-Feb-2018
 119219;INF740K01PM4;INF740K01PN2;DSP BlackRock Opportunities Fund - Direct Plan - Dividend;54.639;54.093;54.639;26-Feb-2018
 119218;INF740K01PL6;-;DSP BlackRock Opportunities Fund - Direct Plan - Growth;228.589;226.303;228.589;26-Feb-2018
 103820;INF740K01078;INF740K01086;DSP BlackRock Opportunities Fund-Regular Plan - Dividend;28.206;27.924;28.206;26-Feb-2018
@@ -1875,10 +1875,10 @@ Franklin Templeton Mutual Fund
 118525;INF090I01IQ4;-;Franklin India Smaller Companies Fund - Direct - Growth;64.4273;63.7830;64.4273;26-Feb-2018
 103361;INF090I01544;INF090I01551;Franklin India Smaller Companies Fund-Dividend;29.7908;29.4929;29.7908;26-Feb-2018
 103360;INF090I01569;-;Franklin India Smaller Companies Fund-Growth;60.8530;60.2445;60.8530;26-Feb-2018
-118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - Dividend;25.5646;25.3090;25.5646;23-Feb-2018
-118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;147.2230;145.7508;147.2230;23-Feb-2018
-100521;INF090I01759;INF090I01767;Franklin India Technology Fund-Dividend;24.7691;24.5214;24.7691;23-Feb-2018
-100522;INF090I01742;-;Franklin India Technology Fund-Growth;143.0004;141.5704;143.0004;23-Feb-2018
+118536;INF090I01FF3;INF090I01FG1;Franklin India Technology Fund - Direct - Dividend;25.4892;25.2343;25.4892;26-Feb-2018
+118537;INF090I01FE6;-;Franklin India Technology Fund - Direct - Growth;146.7898;145.3219;146.7898;26-Feb-2018
+100521;INF090I01759;INF090I01767;Franklin India Technology Fund-Dividend;24.6951;24.4481;24.6951;26-Feb-2018
+100522;INF090I01742;-;Franklin India Technology Fund-Growth;142.5732;141.1475;142.5732;26-Feb-2018
 118526;INF090I01IR2;INF090I01IS0;Templeton India EQUITY INCOME FUND - Direct - Dividend;18.4400;18.2556;18.4400;26-Feb-2018
 118527;INF090I01IT8;-;Templeton India EQUITY INCOME FUND - Direct - Growth;49.5949;49.0990;49.5949;26-Feb-2018
 103679;INF090I01932;INF090I01940;Templeton India Equity Income Fund-Dividend Plan;17.7727;17.5950;17.7727;26-Feb-2018
@@ -2081,10 +2081,10 @@ ICICI Prudential Mutual Fund
 120596;INF109K011O5;-;ICICI Prudential Top 100 Fund - Direct Plan -  Growth;340.28;336.88;340.28;26-Feb-2018
 100348;INF109K01EQ7;INF109K01449;ICICI Prudential Top 100 Fund - Dividend;19.74;19.54;19.74;26-Feb-2018
 100349;INF109K01431;-;ICICI Prudential Top 100 Fund - Growth;324.56;321.31;324.56;26-Feb-2018
-120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Dividend;24.65;23.91;24.65;23-Feb-2018
-120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;24.65;23.91;24.65;23-Feb-2018
-117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - Dividend;23.64;22.93;23.64;23-Feb-2018
-117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;23.64;22.93;23.64;23-Feb-2018
+120185;INF109K01Z55;INF109K01Z63;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Dividend;24.91;24.16;24.91;26-Feb-2018
+120186;INF109K01Z71;-;ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth;24.91;24.16;24.91;26-Feb-2018
+117619;INF109K01E43;INF109K01E50;ICICI Prudential US Bluechip Equity Fund - Dividend;23.89;23.17;23.89;26-Feb-2018
+117620;INF109K01E35;-;ICICI Prudential US Bluechip Equity Fund - Growth;23.89;23.17;23.89;26-Feb-2018
 120322;INF109K011K3;INF109K010K5;ICICI Prudential Value Discovery Fund - Direct Plan - Dividend;55.44;54.89;55.44;26-Feb-2018
 120323;INF109K012K1;-;ICICI Prudential Value Discovery Fund - Direct Plan - Growth;152.37;150.85;152.37;26-Feb-2018
 102595;INF109K01EC7;INF109K01AD3;ICICI Prudential Value Discovery Fund - Dividend;34.28;33.94;34.28;26-Feb-2018
@@ -2339,10 +2339,10 @@ Kotak Mahindra Mutual Fund
 131372;INF174K01C78;-;Kotak Equity Savings Fund - Regular - Growth;13.3124;13.3124;13.3124;26-Feb-2018
 131374;INF174K01C86;INF174K01D02;Kotak Equity Savings Fund - Regular - Monthly Dividend;11.2842;11.2842;11.2842;26-Feb-2018
 131376;INF174K01C94;INF174K01D10;Kotak Equity Savings Fund - Regular - Quarterly Dividend;11.2846;11.2846;11.2846;26-Feb-2018
-106442;INF174K01DW1;INF174K01DX9;Kotak Global Emerging Market Fund - Dividend;17.23;17.058;17.23;23-Feb-2018
-119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Dividend - Direct;18.021;17.841;18.021;23-Feb-2018
-106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;17.23;17.058;17.23;23-Feb-2018
-119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;17.952;17.772;17.952;23-Feb-2018
+106442;INF174K01DW1;INF174K01DX9;Kotak Global Emerging Market Fund - Dividend;17.351;17.177;17.351;26-Feb-2018
+119778;INF174K01LX2;-;Kotak Global Emerging Market Fund - Dividend - Direct;18.149;17.968;18.149;26-Feb-2018
+106441;INF174K01DV3;-;Kotak Global Emerging Market Fund - Growth;17.351;17.177;17.351;26-Feb-2018
+119779;INF174K01LW4;-;Kotak Global Emerging Market Fund - Growth - Direct;18.079;17.898;18.079;26-Feb-2018
 133799;INF178L01087;INF178L01079;Kotak Infrastructure & Economic Reform Fund - Standard Plan-Dividend;20.607;20.401;20.607;26-Feb-2018
 133796;INF178L01095;-;Kotak Infrastructure & Economic Reform Fund - Standard Plan-Growth;21.932;21.713;21.932;26-Feb-2018
 133800;INF178L01AJ3;INF178L01AK1;Kotak Infrastructure & Economic Reform Fund- Direct Plan- Dividend Option;23.42;23.186;23.42;26-Feb-2018
@@ -2684,10 +2684,10 @@ Reliance Mutual Fund
 106235;INF204K01562;-;Reliance Top 200 Fund- Growth Plan -Growth Option;32.7700;32.4423;32.7700;26-Feb-2018
 106240;INF204K01554;-;Reliance Top 200 Fund- Growth Plan Bonus Option;32.7700;32.4423;32.7700;26-Feb-2018
 106238;INF204K01513;-;Reliance Top 200 Fund-Institutional Plan Growth Plan Bonus Option;33.8298;33.4915;33.8298;26-Feb-2018
-134925;INF204KA16G3;INF204KA17G1;Reliance US Equity Opportunites Fund- Direct Plan- Dividend  Plan;13.2243;13.0921;13.2243;23-Feb-2018
-134923;INF204KA15G5;-;Reliance US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;13.2243;13.0921;13.2243;23-Feb-2018
-134924;INF204KA13G0;INF204KA14G8;Reliance US Equity Opportunites Fund- Dividend  Plan;12.8993;12.7703;12.8993;23-Feb-2018
-134922;INF204KA12G2;-;Reliance US Equity Opportunites Fund- Growth Plan- Growth Option;12.8993;12.7703;12.8993;23-Feb-2018
+134925;INF204KA16G3;INF204KA17G1;Reliance US Equity Opportunites Fund- Direct Plan- Dividend  Plan;13.3045;13.1715;13.3045;26-Feb-2018
+134923;INF204KA15G5;-;Reliance US Equity Opportunites Fund- Direct Plan- Growth Plan- Growth Option;13.3045;13.1715;13.3045;26-Feb-2018
+134924;INF204KA13G0;INF204KA14G8;Reliance US Equity Opportunites Fund- Dividend  Plan;12.9764;12.8466;12.9764;26-Feb-2018
+134922;INF204KA12G2;-;Reliance US Equity Opportunites Fund- Growth Plan- Growth Option;12.9764;12.8466;12.9764;26-Feb-2018
 118676;INF204K01F04;INF204K01F12;Reliance Vision Fund - Direct Plan Dividend Plan;47.0912;46.6203;47.0912;26-Feb-2018
 118675;INF204K01E96;-;Reliance Vision Fund - Direct Plan Growth Plan - Bonus Option;102.0324;101.0121;102.0324;26-Feb-2018
 118678;INF204K01F20;-;Reliance Vision Fund - Direct Plan Growth Plan - Growth Option;601.8061;595.7880;601.8061;26-Feb-2018
@@ -7282,14 +7282,14 @@ Sundaram Mutual Fund
 133115;INF903J01Y81;-;sundaram World Brand Fund Series I Direct Plan Growth;13.0918;13.0918;13.0918;14-Dec-2017
 133116;INF903J01Y73;-;Sundaram World Brand Fund Series I Regular Plan Dividend Payout;12.8598;12.8598;12.8598;14-Dec-2017
 133114;INF903J01Y65;-;Sundaram World Brand Fund Series I Regular Plan Growth;12.8599;12.8599;12.8599;14-Dec-2017
-133121;INF903J01Z31;-;Sundaram World Brand Fund Series II Direct Plan Dividend Payout;13.6041;13.6041;13.6041;23-Feb-2018
-133120;INF903J01Z23;-;Sundaram World Brand Fund Series II Direct Plan Growth;13.6041;13.6041;13.6041;23-Feb-2018
-133119;INF903J01Z15;-;Sundaram World Brand Fund Series II Regular Plan Dividend Payout;13.3602;13.3602;13.3602;23-Feb-2018
-133118;INF903J01Z07;-;Sundaram World Brand Fund Series II Regular Plan Growth;13.3602;13.3602;13.3602;23-Feb-2018
-133242;INF903J01Z72;-;Sundaram World Brand Fund Series III Direct Plan Dividend Payout;13.7587;13.7587;13.7587;23-Feb-2018
-133241;INF903J01Z64;-;Sundaram World Brand Fund Series III Direct Plan Growth;13.7587;13.7587;13.7587;23-Feb-2018
-133243;INF903J01Z56;-;Sundaram World Brand Fund Series III Regular Plan Dividend Payout;13.5207;13.5207;13.5207;23-Feb-2018
-133240;INF903J01Z49;-;Sundaram World Brand Fund Series III Regular Plan Growth;13.5207;13.5207;13.5207;23-Feb-2018
+133121;INF903J01Z31;-;Sundaram World Brand Fund Series II Direct Plan Dividend Payout;13.7454;13.7454;13.7454;26-Feb-2018
+133120;INF903J01Z23;-;Sundaram World Brand Fund Series II Direct Plan Growth;13.7454;13.7454;13.7454;26-Feb-2018
+133119;INF903J01Z15;-;Sundaram World Brand Fund Series II Regular Plan Dividend Payout;13.4985;13.4985;13.4985;26-Feb-2018
+133118;INF903J01Z07;-;Sundaram World Brand Fund Series II Regular Plan Growth;13.4985;13.4985;13.4985;26-Feb-2018
+133242;INF903J01Z72;-;Sundaram World Brand Fund Series III Direct Plan Dividend Payout;13.9027;13.9027;13.9027;26-Feb-2018
+133241;INF903J01Z64;-;Sundaram World Brand Fund Series III Direct Plan Growth;13.9027;13.9027;13.9027;26-Feb-2018
+133243;INF903J01Z56;-;Sundaram World Brand Fund Series III Regular Plan Dividend Payout;13.6618;13.6618;13.6618;26-Feb-2018
+133240;INF903J01Z49;-;Sundaram World Brand Fund Series III Regular Plan Growth;13.6618;13.6618;13.6618;26-Feb-2018
  
 Union Mutual Fund
  
