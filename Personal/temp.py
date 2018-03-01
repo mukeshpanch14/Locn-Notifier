@@ -43,10 +43,10 @@ def PDFsplit(pdf, splits):
  
 def main():
     # pdf file to split
-    pdf = 'newpdf.pdf'
+    pdf = 'lastdischarge.pdf'
  
     # split page positions
-    splits = [1,3]
+    splits = [4]
  
     # calling PDFsplit function to split pdf
     PDFsplit(pdf, splits)
