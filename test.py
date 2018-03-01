@@ -2,7 +2,7 @@ import requests
 import csv
 
 
-url="https://www.amfiindia.com/spages/NAVAll.txt"
+url="https://www.amfiindia.com/spages/NAVAll.txtir"
 r=requests.get(url)
 with open("out.txt",'wb') as f:
 	f.write(r.content)
