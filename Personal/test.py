@@ -5,5 +5,6 @@ with open("newpdf.pdf",'rb') as infile:
     writer=PdfFileWriter()
     writer.addPage(reader.getPage(0))
 
-with open("output.pdf",'wb') as outfile:
-    writer.write(outfile)
+
+outputStream = open("PyPDF2-output.pdf", "wb")
+writer.write(outputStream)
