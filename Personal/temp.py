@@ -46,7 +46,7 @@ def main():
     pdf = 'lastdischarge.pdf'
  
     # split page positions
-    splits = [4]
+    splits = [4,5]
  
     # calling PDFsplit function to split pdf
     PDFsplit(pdf, splits)
