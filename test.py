@@ -1,5 +1,5 @@
-import ConvertTxt2Csv as CT
+import CheckNav as CN 
 
-file_name="NAV_020318.txt"
-c=CT.ConvertTxt2Csv(file_name)
-c.convert()
+cn=CN.CheckNav(119604)
+msg=cn.getMsg()
+print(msg)
