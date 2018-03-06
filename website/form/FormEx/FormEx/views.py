@@ -12,12 +12,14 @@ def index(request):
         name = request.POST.get('name')
         email = request.POST.get('email')
         phone = request.POST.get('phone')
+        scodes= request.POST.get('scodes')
 
         #adding the values in a context variable 
         context = {
             'name': name,
             'email': email,
-            'phone': phone
+            'phone': phone,
+            'scodes':scodes
         }
         
         #getting our showdata template
