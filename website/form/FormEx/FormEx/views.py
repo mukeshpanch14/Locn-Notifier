@@ -14,6 +14,8 @@ def index(request):
         phone = request.POST.get('phone')
         scodes= request.POST.get('scodes')
 
+        print(name)
+
         #adding the values in a context variable 
         context = {
             'name': name,
