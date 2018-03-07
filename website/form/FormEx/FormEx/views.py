@@ -2,8 +2,10 @@
 from django.http import HttpResponse
 from django.template import loader
 from django.views.decorators.csrf import csrf_exempt
+import csv
 
 #disabling csrf (cross site request forgery)
+
 @csrf_exempt
 def index(request):
     #if post request came 
@@ -14,7 +16,11 @@ def index(request):
         phone = request.POST.get('phone')
         scodes= request.POST.get('scodes')
 
-        print(name)
+        csv_filename='userdata.csv'
+        wr=open(csv_filename,'a', newline='')
+        writer=csv.writer(wr)
+        inst=[name,email,phone,scodes]
+        writer.writerow(inst)      
 
         #adding the values in a context variable 
         context = {
