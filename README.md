@@ -1,2 +1,2 @@
 # Locn-Notifier
-# P PANCH MUKESH
+# This Project is for getting the present Net Asset Value of a particular Mutual Fund. The data is refreshed by the Association of Mutual Funds India (AMFI) in their website www.amfiindia.com which is fetched by using the Python requests module in the text file format. This file is further text processed and saved in CSV format. When a batch executes in a loop for mutual funds notification present in a Reference file the present NAV data is fetched. This NAV data is decorated with message text and triggers the Twilio API for sending the message as a Text Message to the mentioned Mobile Number in the Reference file.
