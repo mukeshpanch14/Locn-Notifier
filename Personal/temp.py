@@ -43,10 +43,10 @@ def PDFsplit(pdf, splits):
  
 def main():
     # pdf file to split
-    pdf = 'reports.pdf'
+    pdf = 'DIH_1000_DeveloperGuide_en.pdf'
  
     # split page positions
-    splits = [9]
+    splits = [10,27]
  
     # calling PDFsplit function to split pdf
     PDFsplit(pdf, splits)
